@@ -1,0 +1,19 @@
+{
+  "name": "interface-verify",
+  "version": "0.1.0",
+  "description": "Enforce object prototypes to implement specified interface methods",
+  "main": "lib/interface-verify.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Dickson Wong",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jasmine-node": "^0.2.1",
+    "grunt-jsdoc": "^0.6.1",
+    "jshint": "^2.5.11"
+  }
+}
